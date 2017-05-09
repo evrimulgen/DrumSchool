@@ -1,4 +1,4 @@
-package com.sampleapp;
+package com.drumschool;
 
 import com.facebook.react.ReactActivity;
 import com.inprogress.reactnativeyoutube.ReactNativeYouTube;
@@ -11,6 +11,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "SampleApp";
+        return "DrumSchool";
     }
 }

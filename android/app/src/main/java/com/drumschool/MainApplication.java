@@ -1,4 +1,4 @@
-package com.sampleapp;
+package com.drumschool;
 
 import android.app.Application;
 

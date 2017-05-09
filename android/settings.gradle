@@ -1,4 +1,4 @@
-rootProject.name = 'SampleApp'
+rootProject.name = 'DrumSchool'
 
 include ':app'
 include ':react-native-youtube'

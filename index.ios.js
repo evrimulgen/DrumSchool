@@ -16,7 +16,7 @@ import {
 import PlayerView from './app/components/PlayerView';
 import VideoListView from './app/components/VideoListView';
 
-export default class SampleApp extends Component {
+export default class DrumSchool extends Component {
   renderScene(route, navigator) {
     switch (route.name) {
       case 'list':
@@ -56,4 +56,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('SampleApp', () => SampleApp);
+AppRegistry.registerComponent('DrumSchool', () => DrumSchool);

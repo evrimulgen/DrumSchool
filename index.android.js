@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class SampleApp extends Component {
+export default class DrumSchool extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('SampleApp', () => SampleApp);
+AppRegistry.registerComponent('DrumSchool', () => DrumSchool);
